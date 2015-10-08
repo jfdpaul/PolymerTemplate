@@ -1,0 +1,23 @@
+{
+  "name": "testProject",
+  "version": "0.0.0",
+  "description": "A test project on polymer",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "Jonathan Fidelis Paul"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
